@@ -1,0 +1,13 @@
+[
+    {
+        "model": "gpt-4",
+        "api_key": "<OpenAI API Key>"
+    },
+    {
+        "model": "<Deployment Name>",
+        "api_key": "<OpenAI API Key>",
+        "api_base": "<API Base>",
+        "api_type": "azure",
+        "api_version": "2023-07-01-preview"
+    }
+]
